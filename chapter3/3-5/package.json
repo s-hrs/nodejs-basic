@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "undici": "^5.27.2"
+  },
+  "scripts": {
+    "prebuild": "echo 'pre build'",
+    "build": "echo 'build'",
+    "postbuild": "echo 'post build'"
+  }
+}
