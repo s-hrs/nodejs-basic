@@ -1,0 +1,31 @@
+readStream.on("close", () => {
+  console.log("close");
+});
+
+ilename, {
+  encoding: "utf8",
+  highWaterMark: 64,
+});
+consle.log(counter);
+  counter++;
+
+  await write(chunk);
+});
+
+const fs = require("fs");
+const { writeFile } = require("fs/proait writeFile(writeFileName, chunk, { flag: "a" });
+};
+
+let counter = 0;
+
+readStream.on("data", async (chunk) => {
+  consoout(resolve, ms));
+
+const readStream = fs.createReadStream(__freadStream.on("error", (e) => {
+  console.log("error", e);
+});= async (chunk) => {
+  await sleep(Math.random() * 1000);
+  awt writeFileName = `${__filename}-${Date.now()}`;
+
+const write mises");
+const sleep = (ms) => new Promise((resolve) => setTime
